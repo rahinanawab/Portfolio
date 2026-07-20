@@ -1,213 +1,378 @@
-# Portfolio
+# 👋 Hi, I'm Rahina Nawab
 
-# 👋 Hi, I'm Rahina Nawab Ali
+# Software Quality Assurance Engineer
 
-## 🚀 Software Quality Assurance Engineer | SQA | Automation Tester
+### Driving Quality Through Innovation
 
-**Ensuring quality, reliability, and seamless user experiences through effective testing strategies.**
+I am a **Software Quality Assurance Engineer** with **3+ years of professional experience** in delivering reliable, secure, and high-quality software solutions. I specialize in **Manual Testing, Automation Testing, API Testing, Database Validation, and Quality Engineering** for web, mobile, CRM, IoT, AI, and FinTech applications.
 
-I am a Software Quality Assurance Engineer with **3+ years of hands-on experience** in testing web applications, mobile applications, APIs, CRM systems, and IoT-integrated solutions. I specialize in identifying quality risks, improving product reliability, and delivering high-quality software through comprehensive testing methodologies.
+Currently, I am working as a **Mid-Level SQA Engineer at Maze Digital**, where I ensure product quality through comprehensive testing strategies, automation, defect management, and continuous collaboration with cross-functional teams in Agile/Scrum environments.
 
-My passion lies in building stable, user-friendly, and scalable products by combining **manual testing expertise with automation practices**.
+My goal is to build software that is not only functional but also reliable, scalable, and provides an exceptional user experience.
 
 ---
 
 # 💼 About Me
 
-I have experience working across the complete software testing lifecycle, from requirement analysis and test planning to execution, defect tracking, validation, and release verification.
+I have worked across the complete Software Testing Life Cycle (STLC), from requirement analysis and test planning to execution, defect reporting, release validation, and post-production verification.
 
-I have worked with diverse applications including:
+### I have hands-on experience testing:
 
-- 📱 Mobile Applications
 - 🌐 Web Applications
-- 🔌 API-Based Systems
+- 📱 Mobile Applications (Android & iOS)
+- 🔌 REST APIs
 - 🏢 CRM Platforms
-- 📡 IoT-Integrated Solutions
-- 💳 Payment & Subscription Systems
-- 🔐 Authentication & KYC Workflows
+- 📡 IoT-Integrated Systems
+- 🤖 AI-Powered Applications
+- 💰 FinTech & Investment Platforms
+- 🏥 Healthcare Applications
+- 🛒 ERP & eCommerce Solutions
+- 🌍 Social Networking Platforms
 
-I collaborate closely with developers, product managers, and stakeholders to ensure products meet functional requirements, performance expectations, and business goals.
+I enjoy solving complex testing challenges, improving product quality, and collaborating with developers, designers, and product teams to deliver reliable software.
 
 ---
 
-# 🛠️ Testing Expertise
+# 🛠️ Technical Skills
 
 ## Manual Testing
 
-✅ Functional Testing  
-✅ Regression Testing  
-✅ Smoke Testing  
-✅ Sanity Testing  
-✅ Exploratory Testing  
-✅ UI/UX Testing  
-✅ User Acceptance Testing (UAT)  
-✅ End-to-End Testing  
-✅ Cross Browser Testing  
-✅ Mobile Application Testing  
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- System Testing
+- Integration Testing
+- End-to-End Testing (E2E)
+- User Acceptance Testing (UAT)
+- UI/UX Testing
+- Cross Browser Testing
+- Mobile Application Testing
+- Compatibility Testing
 
 ---
 
 ## Automation Testing
 
-🔹 Selenium WebDriver  
-🔹 Java  
-🔹 Cucumber BDD  
-🔹 TestNG  
-🔹 Maven  
-🔹 Page Object Model (POM)  
-🔹 Jenkins CI/CD  
+- Selenium WebDriver
+- Java
+- Cucumber BDD
+- TestNG
+- Maven
+- Page Object Model (POM)
+- Jenkins CI/CD
 
-I have developed automation frameworks and reusable test scripts to improve test coverage, reduce repetitive testing efforts, and increase release confidence.
+Experienced in developing reusable automation scripts to improve regression coverage, reduce manual effort, and support continuous testing.
 
 ---
-
-# 🔌 API & Database Testing
 
 ## API Testing
 
-Tools:
-
 - Postman
-- REST API Testing
-- Request/Response Validation
+- REST APIs
+- Authentication Testing
+- Bearer Token Validation
+- JWT Validation
+- Request & Response Validation
+- Status Code Validation
 - API Workflow Testing
+- Collection Runner
+- Environment Management
+
+---
 
 ## Database Testing
 
-Tools:
-
 - SQL
 - SQLyog
-
-Experience includes:
-
-- Data validation
-- Backend verification
-- Database consistency checks
+- Data Validation
+- CRUD Verification
+- Backend Data Verification
+- Database Consistency Checks
 
 ---
 
-# 📡 IoT & Device Testing Experience
+## Performance Testing
 
-Hands-on experience testing software integrated with physical devices:
+- Apache JMeter
+
+---
+
+# 📡 IoT & Device Testing
+
+Hands-on experience validating software integrated with physical devices including:
 
 - QR Code Scanners
 - Label Printers
-- Tracking Devices
-- Hardware Communication Flows
+- Worker Tracking Devices
+- Real-Time Monitoring Systems
+- Live Location Tracking
+- Danger Zone Alerts
 
 Performed:
 
-- Device integration testing
-- Real-time workflow validation
-- Data synchronization testing
-- End-to-end device scenarios
+- Device Integration Testing
+- Hardware Communication Testing
+- Real-Time Workflow Validation
+- End-to-End Device Testing
 
 ---
 
-# 📂 Featured Projects
+# 💼 Professional Experience
 
-## 🦺 WorkSafe - Construction Safety Management System
+## Mid-Level Software Quality Assurance Engineer
 
-A safety management platform designed for real-time construction site monitoring.
+**Maze Digital**
 
-### Testing Areas:
+**October 2024 – Present**
 
-- User Management
-- Worksite Management
-- Safety Alerts
-- POIs & Muster Stations
+### Responsibilities
+
+- Execute Manual and Automation Testing for Web, Mobile, API, CRM, and IoT applications.
+- Develop Selenium automation scripts using Java and Cucumber.
+- Perform Functional, Regression, Smoke, Sanity, System, and UAT testing.
+- Conduct API testing using Postman.
+- Manage test cases and executions using TestRail.
+- Integrate automation suites with Jenkins.
+- Validate payment gateways, subscriptions, KYC, wallet systems, and notifications.
+- Test IoT devices including QR scanners, printers, and worker tracking systems.
+- Participate in Agile Scrum ceremonies.
+- Prepare release reports and testing documentation.
+- Assist in interviewing QA candidates.
+
+---
+
+## Software Quality Assurance Engineer
+
+**Creative Venture Pakistan**
+
+**March 2023 – October 2024**
+
+- Performed Manual Testing of Web, Mobile, and API applications.
+- Designed test plans and test cases.
+- Reported and tracked defects.
+- Conducted API validation.
+- Managed WordPress-based client projects.
+- Collaborated closely with developers and business teams.
+
+---
+
+## Software Developer Intern
+
+**Aga Khan Development Network**
+
+- Developed AngularJS applications.
+- Integrated REST APIs.
+- Performed application testing and validation.
+
+---
+
+## Web Developer Intern
+
+**The Sparks Foundation**
+
+- Developed responsive web applications using HTML, CSS, JavaScript, and PHP.
+- Implemented payment gateway integration.
+
+---
+
+# 🚀 Featured Projects
+
+## 🦺 WorkSafe Mapping
+
+Construction Safety Management Platform
+
+### Modules Tested
+
+- Worksites
+- Projects
+- POIs
+- Alerts
+- Muster Stations
 - Emergency Evacuation
-- Device Tracking
-- IoT Integration
-- Admin Panel Testing
+- Asset Management
+- Work Orders
+- Device Management
+- Admin Portal
+
+### Testing
+
+- Functional Testing
+- Automation Testing
+- API Testing
+- IoT Validation
+- Device Testing
+- Regression Testing
 
 ---
 
-## 🏥 Steri-Pass - Hospital Sterilization Management System
+## 🏥 Steri-Pass
 
-A medical tray tracking solution using QR technology and IoT devices.
+Hospital Sterilization Management System
 
-### Testing Areas:
+### Features
 
-- Tray lifecycle management
-- QR scanning workflows
-- Label printing integration
-- Vendor & Hospital workflows
-- Subscription & IAP testing
-- Email notification validation
+- Tray Management
+- QR Tracking
+- Label Printing
+- Vendor Portal
+- Hospital Portal
+- Admin Panel
+- Subscription Management
 
----
+### Testing
 
-## 🍽️ Food Savior - Food Donation Platform
-
-A platform connecting donors with organizations to reduce food waste.
-
-### Testing Areas:
-
-- Donation workflows
-- Food expiry scanning
-- Pickup/drop-off flows
-- AI recipe suggestions
-- User interactions
-
----
-
-## 🧬 LYFR Health Application
-
-A healthcare application focused on personal wellness and emergency management.
-
-### Testing Areas:
-
-- User onboarding
-- Health profile management
-- Apple Health integration
-- Emergency preferences
-- Mobile UI validation
+- Functional Testing
+- Device Testing
+- IoT Validation
+- API Testing
+- Payment Testing
+- Email Notification Validation
 
 ---
 
 ## 💰 Royal Bullion Funds
 
-A digital asset and gold investment platform.
+Digital Asset & Gold Investment Platform
 
-### Testing Areas:
+### Modules
 
-- Wallet transactions
-- Investment plans
-- Token conversion flows
-- KYC verification
-- Payment workflows
-- Web & mobile testing
+- Wallet
+- Investment Plans
+- KYC Verification
+- Token Conversion
+- Transactions
+- Payment Workflows
 
 ---
 
-# 📊 QA Tools & Technologies
+## 📈 Alpha Arc
+
+Sales Enablement Platform
+
+- CRM
+- Daily Motivation
+- AI Tracking
+- ARC Score
+- Leaderboard
+- Learning Modules
+
+---
+
+## 🤖 Hair Inspo Pro
+
+AI-powered Hair Styling & Color Recommendation Application
+
+- AI Image Generation
+- Hair Color Suggestions
+- Subscription Testing
+- Amazon Product Integration
+
+---
+
+## 🌱 SowEasy
+
+Smart Plant Care Application
+
+- Reminder System
+- Notifications
+- Care Scheduling
+- Plant Management
+
+---
+
+## 🍽️ Food Savior
+
+AI-powered Food Donation Platform
+
+- Donation Workflow
+- Food Expiry Scanner
+- Pickup & Delivery
+- AI Recipe Suggestions
+
+---
+
+## 📍 Meenk
+
+Location-Based Social Networking Platform
+
+- Nearby Users
+- Posts
+- Events
+- Chats
+- Groups
+- Social Feed
+
+---
+
+## 🩺 LYFR Health
+
+AI-powered Health & Wellness Application
+
+- Apple Health Integration
+- Emergency Contacts
+- Health Profile
+- Wellness Tracking
+
+---
+
+## 📊 Clarion BTC
+
+Cryptocurrency Trading Platform
+
+- Trading Signals
+- Admin Portal
+- Subscription Plans
+- Blog Management
+
+---
+
+# 🏭 Industries Worked In
+
+- Construction Safety
+- Healthcare
+- FinTech
+- AI Applications
+- ERP
+- Social Media
+- Cryptocurrency
+- Hospital Management
+- FoodTech
+- Professional Networking
+- Event Management
+- Investment Platforms
+- eCommerce
+
+---
+
+# 🧰 Tools & Technologies
 
 | Category | Tools |
-|---|---|
-| Test Management | TestRail |
-| Automation | Selenium, Cucumber, TestNG |
+|-----------|-------|
+| Automation | Selenium WebDriver, TestNG, Cucumber |
 | Programming | Java |
 | API Testing | Postman |
-| Performance Testing | JMeter |
 | Database | SQL, SQLyog |
+| Performance | Apache JMeter |
 | CI/CD | Jenkins |
+| Test Management | TestRail |
+| Bug Tracking | Jira, Huly |
 | Version Control | Git, GitHub |
-| Project Management | Jira |
 
 ---
 
-# 🔄 Agile Experience
+# 🔄 Agile Methodology
 
-Experienced working in Agile/Scrum environments:
+Experienced working in Agile Scrum teams through:
 
-✔ Daily Standups  
-✔ Sprint Planning  
-✔ Requirement Analysis  
-✔ Sprint Reviews  
-✔ Bug Triage Meetings  
-✔ Collaboration with Development Teams  
+- Sprint Planning
+- Daily Standups
+- Sprint Reviews
+- Retrospectives
+- Requirement Analysis
+- Bug Triage Meetings
+- Release Validation
 
 ---
 
@@ -215,34 +380,54 @@ Experienced working in Agile/Scrum environments:
 
 Experienced in:
 
-- Writing detailed bug reports
-- Creating reproducible test scenarios
-- Severity & priority analysis
-- Regression validation
-- Working with developers for resolution
+- Bug Reporting
+- Defect Tracking
+- Root Cause Analysis
+- Severity & Priority Assessment
+- Regression Validation
+- Release Verification
 
 ---
 
-# 🌱 Continuous Learning
+# 📜 Certifications
 
-I continuously improve my skills in:
+- Learn Selenium with Java, Cucumber & Framework
+- Selenium WebDriver
+- SQL Programming
+- Backend Engineering
+- Angular
+- Python
+- WordPress Development
+- UX/UI Design
 
-- Test Automation
-- API Testing
-- Mobile Testing
-- AI-Based Testing Tools
-- Quality Engineering Practices
+---
+
+# 🎓 Education
+
+**Bachelor of Science (BS) – Software Engineering**
+
+**Iqra University**
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Selenium Framework Design
+- API Automation
+- Mobile Test Automation
+- AI-Assisted Software Testing
+- Quality Engineering Best Practices
 
 ---
 
 # 📫 Connect With Me
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/rahinanawabali/
+💼 **LinkedIn**  
+www.linkedin.com/in/rahinanawabali
 
-💻 GitHub:  
-https://github.com/rahinanawab
+💻 **GitHub**  
+github.com/rahinanawab
 
 ---
 
-⭐ **Quality is not just finding bugs — it's building confidence in every release.**
+> **"Delivering reliable software through quality engineering, continuous testing, and automation."**
