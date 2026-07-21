@@ -423,10 +423,10 @@ Experienced in:
 # 📫 Connect With Me
 
 💼 **LinkedIn**  
-www.linkedin.com/in/rahinanawabali
+https://www.linkedin.com/in/rahinanawabali
 
 💻 **GitHub**  
-github.com/rahinanawab
+https://github.com/rahinanawab
 
 ---
 
