@@ -149,6 +149,8 @@ Performed:
 
 **March 2023 – October 2024**
 
+### Responsibilities
+
 - Performed Manual Testing of Web, Mobile, and API applications.
 - Designed test plans and test cases.
 - Reported and tracked defects.
@@ -161,6 +163,8 @@ Performed:
 ## Software Developer Intern
 
 **Aga Khan Development Network**
+
+### Responsibilities
 
 - Developed AngularJS applications.
 - Integrated REST APIs.
@@ -196,22 +200,13 @@ Construction Safety Management Platform
 - Device Management
 - Admin Portal
 
-### Testing
-
-- Functional Testing
-- Automation Testing
-- API Testing
-- IoT Validation
-- Device Testing
-- Regression Testing
-
 ---
 
 ## 🏥 Steri-Pass
 
 Hospital Sterilization Management System
 
-### Features
+### Modules Tested
 
 - Tray Management
 - QR Tracking
@@ -221,22 +216,13 @@ Hospital Sterilization Management System
 - Admin Panel
 - Subscription Management
 
-### Testing
-
-- Functional Testing
-- Device Testing
-- IoT Validation
-- API Testing
-- Payment Testing
-- Email Notification Validation
-
 ---
 
 ## 💰 Royal Bullion Funds
 
 Digital Asset & Gold Investment Platform
 
-### Modules
+### Modules Tested
 
 - Wallet
 - Investment Plans
@@ -251,6 +237,8 @@ Digital Asset & Gold Investment Platform
 
 Sales Enablement Platform
 
+### Modules Tested
+
 - CRM
 - Daily Motivation
 - AI Tracking
@@ -264,6 +252,8 @@ Sales Enablement Platform
 
 AI-powered Hair Styling & Color Recommendation Application
 
+### Modules Tested
+
 - AI Image Generation
 - Hair Color Suggestions
 - Subscription Testing
@@ -274,6 +264,8 @@ AI-powered Hair Styling & Color Recommendation Application
 ## 🌱 SowEasy
 
 Smart Plant Care Application
+
+### Modules Tested
 
 - Reminder System
 - Notifications
@@ -286,6 +278,8 @@ Smart Plant Care Application
 
 AI-powered Food Donation Platform
 
+### Modules Tested
+
 - Donation Workflow
 - Food Expiry Scanner
 - Pickup & Delivery
@@ -297,6 +291,8 @@ AI-powered Food Donation Platform
 
 Location-Based Social Networking Platform
 
+### Modules Tested
+
 - Nearby Users
 - Posts
 - Events
@@ -306,9 +302,38 @@ Location-Based Social Networking Platform
 
 ---
 
+## 🌟 Quick Jesus Remainder
+
+Daily Motivation Quotes
+
+### Modules Tested
+
+- Daily motivational quote notifications
+- Set your preferred notification time
+- Hand-picked inspirational quotes
+
+---
+
+## 📸 Knock Knock V
+
+Social Media Platform
+
+### Modules Tested
+
+- Connect with professionals and users
+- Follow professionals and build networks
+- Share posts and updates
+- Like and comment on content
+- Real-time chat and messaging
+- Manage interactions with blocking controls
+
+---
+
 ## 🩺 LYFR Health
 
 AI-powered Health & Wellness Application
+
+### Modules Tested
 
 - Apple Health Integration
 - Emergency Contacts
@@ -320,6 +345,8 @@ AI-powered Health & Wellness Application
 ## 📊 Clarion BTC
 
 Cryptocurrency Trading Platform
+
+### Modules Tested
 
 - Trading Signals
 - Admin Portal
@@ -392,11 +419,14 @@ Experienced in:
 # 📜 Certifications
 
 - Learn Selenium with Java, Cucumber & Framework
-- Selenium WebDriver
-- SQL Programming
-- Backend Engineering
-- Angular
-- Python
+- Selenium WebDriver: All You Need to Know
+- Angular 7 for advanced level
+- Angular 7 for intermediate level
+- Angular 7 for beginners
+- Introduction to Angular JS
+- Softech - Graduate Trainee Program
+- SQL—The Complete Introduction to SQL Programming 
+- Introduction to Python
 - WordPress Development
 - UX/UI Design
 
@@ -408,15 +438,7 @@ Experienced in:
 
 **Iqra University**
 
----
-
-# 🌱 Currently Learning
-
-- Advanced Selenium Framework Design
-- API Automation
-- Mobile Test Automation
-- AI-Assisted Software Testing
-- Quality Engineering Best Practices
+Awarded a Scholarship - Ebrahim Ali Bhai Foundation
 
 ---
 
