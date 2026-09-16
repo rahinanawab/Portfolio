@@ -33,6 +33,16 @@ I enjoy solving complex testing challenges, improving product quality, and colla
 
 ---
 
+# 🎓 Education
+
+**Bachelor of Science (BS) – Software Engineering**
+
+**Iqra University**
+
+Awarded a Scholarship - Ebrahim Ali Bhai Foundation
+
+---
+
 # 🛠️ Technical Skills
 
 ## Manual Testing
@@ -429,16 +439,6 @@ Experienced in:
 - Introduction to Python
 - WordPress Development
 - UX/UI Design
-
----
-
-# 🎓 Education
-
-**Bachelor of Science (BS) – Software Engineering**
-
-**Iqra University**
-
-Awarded a Scholarship - Ebrahim Ali Bhai Foundation
 
 ---
 
