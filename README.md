@@ -4,7 +4,7 @@
 
 ### Driving Quality Through Innovation
 
-I am a **Software Quality Assurance Engineer** with **3+ years of professional experience** in delivering reliable, secure, and high-quality software solutions. I specialize in **Manual Testing, Automation Testing, API Testing, Database Validation, and Quality Engineering** for web, mobile, CRM, IoT, AI, and FinTech applications.
+I am a **Software Quality Assurance Engineer** with **3.5+ years of professional experience** in delivering reliable, secure, and high-quality software solutions. I specialize in **Manual Testing, Automation Testing, API Testing, Database Validation, and Quality Engineering** for web, mobile, CRM, IoT, AI, and FinTech applications.
 
 Currently, I am working as a **Mid-Level SQA Engineer at Maze Digital**, where I ensure product quality through comprehensive testing strategies, automation, defect management, and continuous collaboration with cross-functional teams in Agile/Scrum environments.
 
