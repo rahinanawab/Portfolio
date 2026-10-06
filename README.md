@@ -394,8 +394,9 @@ Cryptocurrency Trading Platform
 | Performance | Apache JMeter |
 | CI/CD | Jenkins |
 | Test Management | TestRail |
-| Bug Tracking | Jira, Huly |
+| Bug Tracking | Jira, ClickUp, Huly |
 | Version Control | Git, GitHub |
+| AI Tools | ChatGPT, Claude, Google Gemini | Grok |
 
 ---
 
