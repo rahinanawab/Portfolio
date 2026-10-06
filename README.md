@@ -396,7 +396,7 @@ Cryptocurrency Trading Platform
 | Test Management | TestRail |
 | Bug Tracking | Jira, ClickUp, Huly |
 | Version Control | Git, GitHub |
-| AI Tools | ChatGPT, Claude, Google Gemini | Grok |
+| AI Tools | ChatGPT, Claude, Google Gemini |
 
 ---
 
