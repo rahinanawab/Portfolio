@@ -1,28 +1,28 @@
-👋 Hi, I'm Rahina Nawab Ali 
+# 👋 Hi, I'm Rahina Nawab
 
-Software Quality Assurance Engineer
+## 🚀 Software Quality Assurance Engineer | Automation Tester
 
-Driving Quality Through Innovation
+**Ensuring quality, reliability, and seamless user experiences through effective testing strategies.**
 
-I am a Software Quality Assurance Engineer with 3.5+ years of professional experience in delivering reliable, secure, and high-quality software solutions. I specialize in Manual Testing, Automation Testing, API Testing, Database Validation, and Quality Engineering for web, mobile, CRM, IoT, AI, and FinTech applications.
+I am a Software Quality Assurance Engineer with 3.5+ years of professional experience in delivering reliable, secure, and high-quality software solutions. I specialize in Manual Testing, Automation Testing, API Testing, Database Validation, and Quality Engineering for web, mobile, CRM, IoT, AI, and FinTech applications. I ensure product quality through comprehensive testing strategies, automation, defect management, and continuous collaboration with cross-functional teams in Agile/Scrum environments.
 
-Currently, I am working as a Mid-Level QA Engineer at Maze Digital, where I ensure product quality through comprehensive testing strategies, automation, defect management, and continuous collaboration with cross-functional teams in Agile/Scrum environments.
-
-My goal is to build software that is not only functional but also reliable, scalable, and provides an exceptional user experience.
+My passion lies in building stable, user-friendly, and scalable products by combining **manual testing expertise with automation practices**.
 
 ---
 
-💼 About Me
+# 💼 About Me
 
-I have worked across the complete Software Testing Life Cycle (STLC), from requirement analysis and test planning to execution, defect reporting, release validation, and post-production verification.
+I have experience working across the complete software testing lifecycle, from requirement analysis and test planning to execution, defect tracking, validation, and release verification.
 
-I have hands-on experience testing:
+I have worked with diverse applications including:
 
 - 🌐 Web Applications
 - 📱 Mobile Applications (Android & iOS)
 - 🔌 REST APIs
 - 🏢 CRM Platforms
 - 📡 IoT-Integrated Systems
+- 💳 Payment & Subscription Systems
+- 🔐 Authentication & KYC Workflows
 - 🤖 AI-Powered Applications
 - 💰 FinTech & Investment Platforms
 - 🏥 Healthcare Applications
@@ -35,7 +35,7 @@ I also have experience in QA project management, client communication, requireme
 
 ---
 
-🎓 Education
+# 🎓 Education
 
 Bachelor of Science (BS) – Software Engineering
 
@@ -45,92 +45,91 @@ Awarded a Scholarship – Ebrahim Ali Bhai Foundation
 
 ---
 
-🛠️ Technical Skills
+# 🛠️ Testing Expertise
 
-Manual Testing
+## Manual Testing
 
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Sanity Testing
-- Exploratory Testing
-- System Testing
-- Integration Testing
-- End-to-End Testing (E2E)
-- User Acceptance Testing (UAT)
-- UI/UX Testing
-- Cross-Browser Testing
-- Mobile Application Testing
-- Compatibility Testing
-- Test Planning and Strategy
-- Test Case Design and Execution
-- Defect Reporting and Tracking
-- Release Validation
-- Usability Testing
-- Requirement Analysis
+✅ Functional Testing  
+✅ Regression Testing  
+✅ Smoke Testing  
+✅ Sanity Testing  
+✅ Exploratory Testing  
+✅ UI/UX Testing  
+✅ User Acceptance Testing (UAT)    
+✅ End-to-End Testing  
+✅ Cross Browser Testing  
+✅ Mobile Application Testing  
+✅ Test Planning and Strategy  
+✅ Test Case Design and Execution  
+✅ Defect Reporting and Tracking  
+✅ Release Validation  
+✅ Usability Testing  
+✅ Requirement Analysis  
 
 ---
 
-Automation Testing
+## Automation Testing
 
-- Selenium WebDriver
-- Playwright
-- Java
-- Cucumber BDD
-- TestNG
-- Maven
-- Page Object Model (POM)
-- Jenkins CI/CD
-- GitHub Actions CI/CD
-- Automated UI Testing
-- Cross-Browser Automation
-- Regression Test Automation
-- Reusable Automation Frameworks
+🔹 Selenium WebDriver  
+🔹 Playwright  
+🔹 Java  
+🔹 Cucumber BDD  
+🔹 TestNG  
+🔹 Maven  
+🔹 Page Object Model (POM)  
+🔹 Jenkins CI/CD   
+🔹 GitHub Actions CI/CD  
+🔹 Automated UI Testing  
+🔹 Cross-Browser Automation  
+🔹 Regression Test Automation  
 
-Experienced in developing reusable automation scripts to improve regression coverage, reduce manual effort, maintain test suites, and support continuous testing.
+I have developed automation frameworks and reusable test scripts to improve test coverage, reduce repetitive testing efforts, and increase release confidence.
 
 ---
 
-API Testing
+# 🔌 API & Database Testing
+
+## API Testing
+
+Tools:
 
 - Postman
-- REST APIs
-- RESTful Web Services
+- REST API Testing
+- Request/Response Validation
+- API Workflow Testing
 - Swagger
 - Authentication Testing
 - Bearer Token Validation
-- JWT Validation
 - Request & Response Validation
 - Status Code Validation
-- API Workflow Testing
-- Collection Runner
 - Environment Management
-- Backend Integration Testing
-- Data Integrity Validation
 
 ---
 
-Database Testing
+## Database Testing
+
+Tools:
 
 - SQL
 - MySQL
 - SQLyog
-- Data Validation
-- CRUD Verification
-- Backend Data Verification
-- Database Consistency Checks
-- Data Integrity Testing
+
+Experience includes:
+
+- Data validation
+- Backend verification
+- Database consistency checks
 
 ---
 
-Performance Testing
+## Performance Testing
 
 - Apache JMeter
 - Performance Test Execution
 
 ---
 
-AI-Powered Testing
+## AI-Powered Testing
 
 - LambdaTest
 - Autify
@@ -144,7 +143,7 @@ Experienced in leveraging AI-powered testing tools and AI agents to support test
 
 ---
 
-Programming & Web Development
+## Programming & Web Development
 
 - Java
 - JavaScript
@@ -163,7 +162,7 @@ Programming & Web Development
 
 ---
 
-📡 IoT & Device Testing
+# 📡 IoT & Device Testing
 
 Hands-on experience validating software integrated with physical devices, including:
 
@@ -185,7 +184,7 @@ Performed:
 
 ---
 
-💼 Professional Experience
+# 💼 Professional Experience
 
 Mid-Level Software Quality Assurance Engineer
 
@@ -255,13 +254,13 @@ Responsibilities
 
 ---
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
-🦺 WorkSafe Mapping
+## 🦺 WorkSafe Mapping
 
 Construction Safety Management Platform
 
-Modules Tested
+### Modules Tested
 
 - Worksites
 - Projects
@@ -279,11 +278,11 @@ Modules Tested
 
 ---
 
-🏥 Steri-Pass
+## 🏥 Steri-Pass
 
 Hospital Sterilization Management System
 
-Modules Tested
+### Modules Tested
 
 - Tray Management
 - Weight Tracking
@@ -300,7 +299,7 @@ Modules Tested
 
 ---
 
-💰 Royal Bullion Funds
+## 💰 Royal Bullion Funds
 
 Digital Asset & Gold Investment Platform
 
@@ -313,6 +312,8 @@ Modules Tested
 - Gold Transactions
 - Wallet Transactions
 - P2P Transfers
+- TRC20 Transactions
+- Withdrawal Transactions
 - Marketplace
 - Payment Workflows
 - Currency Conversion
@@ -321,11 +322,11 @@ Modules Tested
 
 ---
 
-📈 Alpha Arc
+## 📈 Alpha Arc
 
 Sales Enablement Platform
 
-Modules Tested
+### Modules Tested
 
 - User and Team Management
 - Daily Motivation and Content
@@ -339,11 +340,11 @@ Modules Tested
 
 ---
 
-🤖 Hair Inspo Pro
+## 🤖 Hair Inspo Pro
 
 AI-Powered Hair Styling & Color Recommendation Application
 
-Modules Tested
+### Modules Tested
 
 - AI Image Generation
 - Hair Color Suggestions
@@ -353,11 +354,11 @@ Modules Tested
 
 ---
 
-🌱 SowEasy
+## 🌱 SowEasy
 
 Smart Plant Care Application
 
-Modules Tested
+### Modules Tested
 
 - Sensor Integration
 - Environmental Data Validation
@@ -369,11 +370,11 @@ Modules Tested
 
 ---
 
-🍽️ Food Savior
+## 🍽️ Food Savior
 
 AI-Powered Food Donation Platform
 
-Modules Tested
+### Modules Tested
 
 - Donation Workflow
 - Food Expiry Scanner
@@ -383,11 +384,11 @@ Modules Tested
 
 ---
 
-📍 Meenk
+## 📍 Meenk
 
 Location-Based Social Networking Platform
 
-Modules Tested
+### Modules Tested
 
 - Nearby Users
 - Location-Based Post Visibility
@@ -400,11 +401,11 @@ Modules Tested
 
 ---
 
-🌟 Quick Jesus Remainder
+## 🌟 Quick Jesus Remainder
 
 Daily Motivational Quotes Application
 
-Modules Tested
+### Modules Tested
 
 - Daily Motivational Quote Notifications
 - Custom Notification Scheduling
@@ -414,11 +415,11 @@ Modules Tested
 
 ---
 
-📸 Knock Knock V
+## 📸 Knock Knock V
 
 Social Media Platform
 
-Modules Tested
+### Modules Tested
 
 - User Profiles
 - Posts, Photos, Videos, and Status Sharing
@@ -432,11 +433,11 @@ Modules Tested
 
 ---
 
-🩺 LYFR Health
+## 🩺 LYFR Health
 
 AI-Powered Health & Wellness Application
 
-Modules Tested
+### Modules Tested
 
 - Health Profile
 - Wellness Tracking
@@ -447,11 +448,11 @@ Modules Tested
 
 ---
 
-📊 Clarion BTC
+## 📊 Clarion BTC
 
 Cryptocurrency Trading Platform
 
-Modules Tested
+### Modules Tested
 
 - Trading Signals
 - Admin Portal
@@ -461,11 +462,11 @@ Modules Tested
 
 ---
 
-📅 Event Management System
+## 📅 Event Management System
 
 Web-Based Event Management Platform
 
-Modules Tested
+### Modules Tested
 
 - User Workflows
 - Organization Workflows
@@ -476,35 +477,9 @@ Modules Tested
 
 ---
 
-💬 Motivational Quotes Reminder
+## 🛒 eCommerce & Web Applications
 
-Scheduled Inspirational Quotes Application
-
-Modules Tested
-
-- Scheduled Notifications
-- Reminder Functionality
-- Quote Delivery
-- User Engagement Workflows
-
----
-
-🌿 Nature-Inspired PlantCare System
-
-Nature-Inspired Plant Care Platform
-
-Modules Tested
-
-- Sensor Integration
-- Environmental Data Accuracy
-- User Notifications
-- Plant Care Recommendations
-
----
-
-🛒 eCommerce & Web Applications
-
-Modules Tested
+### Modules Tested
 
 - eCommerce Workflows
 - Functional Testing
@@ -516,15 +491,12 @@ Modules Tested
 
 ---
 
-🧪 Other QA Projects
+## 🧪 Other QA Projects
 
-- AI-Powered Hair Color and Styling Recommendation System
-- CryptoSignals
 - Professional Networking Application
 - Food Delivery Service
 - Fitness Transformation Application
 - Invoice Automation System
-- eCommerce Websites
 - Personal and Blog Websites
 - Business Websites
 - Electronic Medical Records (EMR) System
@@ -533,11 +505,12 @@ Modules Tested
 
 ---
 
-🏭 Industries Worked In
+# 🏭 Industries Worked In
 
 - Construction Safety
 - Healthcare
 - FinTech
+- Blockchain
 - AI Applications
 - ERP
 - Social Media
@@ -548,32 +521,31 @@ Modules Tested
 - Event Management
 - Investment Platforms
 - eCommerce
-- IoT and Device Integration
+
+---
+# 📊 QA Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Automation | Selenium WebDriver, Playwright, TestNG, Cucumber, Maven |
+| Programming | Java, JavaScript, TypeScript, Python, C#, PHP |
+| API Testing | Postman, Swagger, REST APIs |
+| Database | MySQL, SQLyog, SQL |
+| Performance | Apache JMeter |
+| CI/CD | Jenkins, GitHub Actions | 
+| Test Management | TestRail, Testomat.io |
+| Bug Tracking | Jira, Linear, ClickUp, Huly, Trello, Notion |
+| Documentation | Test Plans, Test Scenarios, Test Reports, QA Case Studies |
+| Version Control | Git, GitHub |
+| AI Testing | LambdaTest, Autify, Testomat.io, AI Agents |
+| AI Tools | ChatGPT, Claude, Browser Use, Codex |
+| Development | Eclipse, Android Studio, Visual Studio, IntelliJ IDEA
+| Other Tools | Docker |
+| Design Tools | Adobe XD, Figma |
 
 ---
 
-🧰 Tools & Technologies
-
-Category| Tools
-Automation| Selenium WebDriver, Playwright, TestNG, Cucumber, Maven
-Programming| Java, JavaScript, TypeScript, Python, C#, PHP
-API Testing| Postman, Swagger, REST APIs
-Database| MySQL, SQLyog, SQL
-Performance| Apache JMeter
-CI/CD| Jenkins, GitHub Actions
-Test Management| TestRail, Testomat.io
-Bug Tracking| Jira, Linear, ClickUp, Huly, Trello
-Documentation| Test Plans, Test Scenarios, Test Reports, QA Case Studies
-Version Control| Git, GitHub
-AI Testing| LambdaTest, Autify, Testomat.io, AI Agents
-AI Tools| ChatGPT, Claude, Browser Use, Codex
-Development| Eclipse, Android Studio, Visual Studio, IntelliJ IDEA
-Other Tools| Docker, Notion
-Design Tools| Adobe XD, Figma
-
----
-
-🔄 Agile Methodology
+# 🔄 Agile Methodology
 
 Experienced working in Agile Scrum teams through:
 
@@ -590,7 +562,7 @@ Experienced working in Agile Scrum teams through:
 
 ---
 
-🐞 Defect Management
+# 🐞 Defect Management
 
 Experienced in:
 
@@ -606,7 +578,7 @@ Experienced in:
 
 ---
 
-📜 Certifications
+# 📜 Certifications
 
 - Learn Selenium with Java, Cucumber and Frameworks — Udemy (April 2025)
 - Selenium WebDriver: All You Need to Know — Alison (September 2024)
@@ -623,7 +595,7 @@ Additional Training & Certifications
 
 ---
 
-📫 Connect With Me
+# 📫 Connect With Me
 
 💼 LinkedIn
 https://www.linkedin.com/in/rahinanawabali
@@ -631,6 +603,9 @@ https://www.linkedin.com/in/rahinanawabali
 💻 GitHub
 https://github.com/rahinanawab
 
+💼 Portfolio
+https://portfolio-rahinanawabali.vercel.app
+
 ---
 
-«"Delivering reliable software through quality engineering, continuous testing, and automation."»
+⭐ ** Delivering reliable software through quality engineering, continuous testing, and automation.**
